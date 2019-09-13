@@ -1,0 +1,28 @@
+[
+  {
+    "key": "all",
+    "title": "all"
+  },
+  {
+    "key": "ex-hentai-module",
+    "title": "ex-hentai"
+  },
+  {
+    "key": "编程",
+    "title": "编程",
+    "children": [
+      {
+        "key": "ex-hentai",
+        "value": "ex-hentai"
+      },
+      {
+        "key": "其他",
+        "value": "其他"
+      },
+      {
+        "key": "linux",
+        "value": "linux"
+      }
+    ]
+  }
+]
